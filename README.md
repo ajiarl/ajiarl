@@ -71,13 +71,13 @@ Halo! Saya **Aji Arlando**, seorang **Fullstack Web Developer** dari Indonesia y
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ajiarl&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=22d3ee&text_color=9ca3af&icon_color=34d399&include_all_commits=true&count_private=true" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ajiarl&theme=radical&hide_border=true&background=0d1117&stroke=22d3ee&ring=34d399&fire=f97316&currStreakNum=ffffff&sideNums=9ca3af&currStreakLabel=22d3ee&sideLabels=34d399&dates=9ca3af" width="49%" />
+<img src="https://github-stats-alpha.vercel.app/api?username=ajiarl&cc=0d1117&tc=22d3ee&ic=34d399&bc=0d1117" width="49%" />
+<img src="https://streak-stats.demolab.com/?user=ajiarl&theme=radical&hide_border=true&background=0d1117&stroke=22d3ee&ring=34d399&fire=f97316&currStreakNum=ffffff&sideNums=9ca3af&currStreakLabel=22d3ee&sideLabels=34d399&dates=9ca3af" width="49%" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajiarl&layout=donut&theme=radical&hide_border=true&bg_color=0d1117&title_color=22d3ee&text_color=9ca3af&langs_count=8" width="36%" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ajiarl&bg_color=0d1117&color=9ca3af&line=22d3ee&point=34d399&area=true&hide_border=true" width="61%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajiarl&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=22d3ee&text_color=9ca3af&langs_count=8" width="49%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ajiarl&bg_color=0d1117&color=9ca3af&line=22d3ee&point=34d399&area=true&hide_border=true" width="49%" />
 
 </div>
 
