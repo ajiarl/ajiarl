@@ -1,11 +1,17 @@
 <div align="center">
 
-<!-- Hero Section with Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=32&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=800&lines=Halo%2C+Saya+Aji+Arlando+%F0%9F%91%8B;Fullstack+Web+Developer;Membangun+Website+Modern+%26+Responsif;Mengubah+Ide+Menjadi+Kode+Nyata" alt="Typing SVG" />
+<!-- Capsule Render Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:0e7490,100:22d3ee&height=200&section=header&text=Aji%20Arlando&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Fullstack%20Web%20Developer%20%7C%20UI%2FUX%20Enthusiast&descAlignY=58&descSize=18&animation=fadeIn" />
 
-<p align="center">
+<!-- Typing Animation -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=700&lines=Halo%2C+Saya+Aji+Arlando+%F0%9F%91%8B;Fullstack+Web+Developer+dari+Indonesia+%F0%9F%87%AE%F0%9F%87%A9;React+%7C+TailwindCSS+%7C+PHP+%7C+MySQL;Mengubah+Ide+Menjadi+Kode+Nyata+%E2%9C%A8;Suka+3D+UI+%26+Glassmorphism+Design+%F0%9F%94%AE" alt="Typing SVG" />
+
+<br/>
+
+<!-- Social Badges -->
+<p>
   <a href="https://portofolio-ajiarlando.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portofolio-030014?style=for-the-badge&logo=vercel&logoColor=white&borderColor=22D3EE" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/🌐%20Portofolio-22D3EE?style=for-the-badge&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/ajiarlando/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -14,75 +20,124 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="mailto:ajiarlando127@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
+
+<!-- Profile Views -->
+<img src="https://komarev.com/ghpvc/?username=ajiarl&style=flat-square&color=22D3EE&label=Profile+Views" />
+<img src="https://img.shields.io/github/followers/ajiarl?style=flat-square&color=34d399&label=Followers" />
 
 </div>
 
 <br/>
 
-### 👨‍💻 Tentang Saya
+---
 
-Halo! Saya adalah seorang **Fullstack Web Developer** dari Indonesia. Saya sangat suka merancang dan membangun pengalaman digital yang bersih, efisien, dan memanjakan mata. Saat ini saya sedang terus mengembangkan keahlian saya di bidang arsitektur web modern dan optimasi performa.
+<!-- About Me -->
+## 🧑‍💻 Tentang Saya
 
-- 🔭 Saat ini sedang mengerjakan **Proyek Fullstack Web Development**
-- 🌱 Sedang mempelajari **Advanced React Patterns & Arsitektur Backend**
-- 💬 Tanya saya tentang **React, TailwindCSS, PHP, MySQL, dan Supabase**
-- ⚡ Fakta unik: **Saya suka menggabungkan kode yang bersih dengan UI/UX 3D & Glassmorphism!**
+<img align="right" alt="Coding GIF" width="340" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-<br/>
+Halo! Saya **Aji Arlando**, seorang **Fullstack Web Developer** dari Indonesia 🇮🇩 yang passionate dalam membangun pengalaman digital yang bersih, efisien, dan memanjakan mata.
 
-### 🛠️ Tech Stack & Tools
+- 🔭 Sedang mengerjakan **Proyek Fullstack Web Development**
+- 🌱 Mempelajari **Advanced React Patterns & Arsitektur Backend**
+- 💡 Tertarik pada **UI/UX 3D, Glassmorphism & Animasi Web**
+- 💬 Tanya saya tentang **React, TailwindCSS, PHP, MySQL, Supabase**
+- 🎯 Goal 2025: **Berkontribusi lebih banyak ke Open Source**
+- ⚡ Fun fact: **Kode yang bersih = seni yang fungsional!**
+
+<br clear="right"/>
+
+---
+
+<!-- Trophy -->
+## 🏆 GitHub Trophies
 
 <div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,react,tailwind,vite,supabase,php,mysql,bootstrap,git,github,vscode,figma,postman&perline=8" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=ajiarl&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" />
 </div>
 
-<br/>
+---
 
-### 🚀 Proyek Pilihan
+<!-- Tech Stack -->
+## 🛠️ Tech Stack & Tools
 
-| 🚀 Proyek | 📝 Deskripsi | 💻 Tech Stack | 🔗 Tautan |
-|:---:|:---|:---:|:---:|
-| **[Portofolio V6](https://github.com/ajiarl/portofolio)** | Website portofolio pribadi dengan 3D Globe, animasi modern, & Glassmorphism UI | `React`, `Tailwind`, `Supabase` | [🌐 Live Demo](https://portofolio-ajiarlando.vercel.app/) |
-| **[Sistem Reservasi Futsal](https://github.com/ajiarl/reservasi-lapangan-futsal)** | Platform reservasi & manajemen lapangan futsal online | `PHP`, `MySQL`, `Bootstrap` | [📂 Repo](https://github.com/ajiarl/reservasi-lapangan-futsal) |
-| **[Kospedia](https://github.com/ajiarl/kospedia)** | Platform pencarian & manajemen kos untuk mahasiswa | `PHP`, `MySQL` | [📂 Repo](https://github.com/ajiarl/kospedia) |
-| **[Web Joki Tugas](https://github.com/ajiarl/web-joki-tugas)** | Website pemesanan jasa tugas & freelance | `JavaScript` | [📂 Repo](https://github.com/ajiarl/web-joki-tugas) |
-| **[Toko Peralatan Sekolah](https://github.com/ajiarl/toko-peralatan-sekolah)** | Sistem manajemen inventaris & kasir toko | `PHP`, `MySQL` | [📂 Repo](https://github.com/ajiarl/toko-peralatan-sekolah) |
+<div align="center">
 
-<br/>
+**Frontend**
 
-### 📊 Statistik GitHub
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,vite" />
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ajiarl&show_icons=true&bg_color=030014&title_color=34d399&text_color=9ca3af&icon_color=22d3ee&border_color=1e293b&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ajiarl&background=030014&stroke=1e293b&ring=34d399&fire=22d3ee&currStreakNum=9ca3af&sideNums=9ca3af&currStreakLabel=34d399&sideLabels=34d399&dates=9ca3af&hide_border=true" width="48%" />
-</p>
+**Backend & Database**
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajiarl&layout=donut&bg_color=030014&title_color=34d399&text_color=9ca3af&icon_color=22d3ee&border_color=1e293b&hide_border=true&langs_count=6" width="48%" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ajiarl&bg_color=030014&color=9ca3af&line=22d3ee&point=34d399&area=true&hide_border=true" width="48%" />
-</p>
+<img src="https://skillicons.dev/icons?i=php,nodejs,mysql,supabase,firebase" />
 
-<br/>
+**Tools & Platform**
 
-### 🐍 Animasi Kontribusi (Snake)
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,vercel,linux" />
+
+</div>
+
+---
+
+<!-- Projects -->
+## 🚀 Proyek Pilihan
+
+<div align="center">
+
+| 🚀 Proyek | 📝 Deskripsi | 💻 Tech Stack | 🔗 Demo |
+|:---|:---|:---:|:---:|
+| **[🌐 Portofolio V6](https://github.com/ajiarl/portofolio)** | Website portofolio pribadi dengan 3D Globe, animasi modern & Glassmorphism UI | `React` `Tailwind` `Supabase` | [Live ↗](https://portofolio-ajiarlando.vercel.app/) |
+| **[⚽ Sistem Reservasi Futsal](https://github.com/ajiarl/reservasi-lapangan-futsal)** | Platform reservasi & manajemen lapangan futsal online | `PHP` `MySQL` `Bootstrap` | [Repo ↗](https://github.com/ajiarl/reservasi-lapangan-futsal) |
+| **[🏠 Kospedia](https://github.com/ajiarl/kospedia)** | Platform pencarian & manajemen kos untuk mahasiswa | `PHP` `MySQL` | [Repo ↗](https://github.com/ajiarl/kospedia) |
+| **[📝 Web Joki Tugas](https://github.com/ajiarl/web-joki-tugas)** | Website pemesanan jasa tugas & freelance | `JavaScript` | [Repo ↗](https://github.com/ajiarl/web-joki-tugas) |
+| **[🛒 Toko Peralatan Sekolah](https://github.com/ajiarl/toko-peralatan-sekolah)** | Sistem manajemen inventaris & kasir toko | `PHP` `MySQL` | [Repo ↗](https://github.com/ajiarl/toko-peralatan-sekolah) |
+
+</div>
+
+---
+
+<!-- GitHub Stats -->
+## 📊 Statistik GitHub
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ajiarl&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=22d3ee&text_color=9ca3af&icon_color=34d399&include_all_commits=true&count_private=true" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ajiarl&theme=radical&hide_border=true&background=0d1117&stroke=22d3ee&ring=34d399&fire=f97316&currStreakNum=ffffff&sideNums=9ca3af&currStreakLabel=22d3ee&sideLabels=34d399&dates=9ca3af" width="49%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajiarl&layout=donut&theme=radical&hide_border=true&bg_color=0d1117&title_color=22d3ee&text_color=9ca3af&langs_count=8" width="36%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ajiarl&bg_color=0d1117&color=9ca3af&line=22d3ee&point=34d399&area=true&hide_border=true&area_color=0e7490" width="61%" />
+
+</div>
+
+---
+
+<!-- Snake -->
+## 🐍 Animasi Kontribusi
 
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ajiarl/ajiarl/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ajiarl/ajiarl/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ajiarl/ajiarl/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ajiarl/ajiarl/output/github-contribution-grid-snake-dark.svg">
   </picture>
 </div>
 
-<br/>
+---
+
+<!-- Random Dev Quote -->
+## 💬 Quote of the Day
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ajiarl&style=for-the-badge&color=22D3EE&label=KUNJUNGAN+PROFIL" />
-  <br/><br/>
-  <i>Dibuat dengan ❤️ oleh Aji Arlando</i>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</div>
+
+---
+
+<!-- Footer Wave -->
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,50:0e7490,100:0f172a&height=120&section=footer" />
+  <i>✨ Dibuat dengan ❤️ oleh <b>Aji Arlando</b> — Let's build something amazing together!</i>
 </div>
