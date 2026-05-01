@@ -36,12 +36,13 @@
 
 Halo! Saya **Aji Arlando**, seorang **Fullstack Web Developer** dari Indonesia yang passionate dalam membangun pengalaman digital yang bersih, efisien, dan memanjakan mata.
 
-- Sedang mengerjakan **Proyek Fullstack Web Development**
-- Mempelajari **Advanced React Patterns & Arsitektur Backend**
-- Tertarik pada **UI/UX 3D, Glassmorphism & Animasi Web**
-- Tanya saya tentang **React, TailwindCSS, PHP, MySQL, Supabase**
-- Goal 2025: **Berkontribusi lebih banyak ke Open Source**
-- Fun fact: **Kode yang bersih = seni yang fungsional!**
+- 🗂️ Punya **23 repositori** publik di GitHub
+- 💡 Bahasa utama: **PHP, JavaScript, HTML/CSS**
+- 🚀 Sedang mengerjakan **Proyek Fullstack Web Development**
+- 📚 Mempelajari **Advanced React Patterns & Arsitektur Backend**
+- 🎨 Tertarik pada **UI/UX 3D, Glassmorphism & Animasi Web**
+- 💬 Tanya saya tentang **React, TailwindCSS, PHP, MySQL, Supabase**
+- ⚡ Fun fact: **Kode yang bersih = seni yang fungsional!**
 
 <br clear="right"/>
 
@@ -71,12 +72,18 @@ Halo! Saya **Aji Arlando**, seorang **Fullstack Web Developer** dari Indonesia y
 
 <div align="center">
 
-<img src="https://github-stats-alpha.vercel.app/api?username=ajiarl&cc=0d1117&tc=22d3ee&ic=34d399&bc=0d1117" width="49%" />
-<img src="https://streak-stats.demolab.com/?user=ajiarl&theme=radical&hide_border=true&background=0d1117&stroke=22d3ee&ring=34d399&fire=f97316&currStreakNum=ffffff&sideNums=9ca3af&currStreakLabel=22d3ee&sideLabels=34d399&dates=9ca3af" width="49%" />
+<!-- Stats Card — github-readme-stats (stabil) -->
+<img src="https://github-readme-stats.vercel.app/api?username=ajiarl&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=22d3ee&text_color=9ca3af&icon_color=34d399" width="49%" />
+
+<!-- Streak Stats — herokuapp (demolab sudah mati) -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ajiarl&theme=radical&hide_border=true&background=0d1117&stroke=22d3ee&ring=34d399&fire=f97316&currStreakNum=ffffff&sideNums=9ca3af&currStreakLabel=22d3ee&sideLabels=34d399&dates=9ca3af" width="49%" />
 
 <br/>
 
+<!-- Top Languages -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajiarl&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=22d3ee&text_color=9ca3af&langs_count=8" width="49%" />
+
+<!-- Activity Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ajiarl&bg_color=0d1117&color=9ca3af&line=22d3ee&point=34d399&area=true&hide_border=true" width="49%" />
 
 </div>
@@ -92,6 +99,39 @@ Halo! Saya **Aji Arlando**, seorang **Fullstack Web Developer** dari Indonesia y
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ajiarl/ajiarl/output/github-contribution-grid-snake-dark.svg">
   </picture>
 </div>
+
+<details>
+<summary>⚙️ Setup Snake Animation (klik jika belum aktif)</summary>
+
+Buat file `.github/workflows/snake.yml` di repo `ajiarl/ajiarl`:
+
+```yaml
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: ajiarl
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+</details>
 
 ---
 
