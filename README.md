@@ -34,13 +34,13 @@
 
 <img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-Halo! Saya **Aji Arlando**, seorang **Web Developer** dari Indonesia yang passionate dalam membangun pengalaman digital yang bersih, efisien, dan memanjakan mata.
+Halo! Saya **Aji Arlando**, seorang **Fullstack Web Developer** dari Indonesia yang passionate dalam membangun pengalaman digital yang bersih, efisien, dan memanjakan mata.
 
-- Punya **23 repositori** publik di GitHub
-- Bahasa utama: **PHP, JavaScript, HTML/CSS**
 - Sedang mengerjakan **Proyek Fullstack Web Development**
-- Mempelajari **React & Arsitektur Backend Modern**
-- Tanya saya tentang **PHP, MySQL, JavaScript, HTML, CSS**
+- Mempelajari **Advanced React Patterns & Arsitektur Backend**
+- Tertarik pada **UI/UX 3D, Glassmorphism & Animasi Web**
+- Tanya saya tentang **React, TailwindCSS, PHP, MySQL, Supabase**
+- Goal 2025: **Berkontribusi lebih banyak ke Open Source**
 - Fun fact: **Kode yang bersih = seni yang fungsional!**
 
 <br clear="right"/>
@@ -53,30 +53,17 @@ Halo! Saya **Aji Arlando**, seorang **Web Developer** dari Indonesia yang passio
 
 **Frontend**
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,vite" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,vite" />
 
 **Backend & Database**
 
-<img src="https://skillicons.dev/icons?i=php,nodejs,mysql,supabase" />
+<img src="https://skillicons.dev/icons?i=php,nodejs,mysql,supabase,firebase" />
 
 **Tools & Platform**
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,vercel,linux" />
 
 </div>
-
----
-
-## Pinned Projects
-
-| # | Project | Deskripsi | Tech | Status |
-|---|---------|-----------|------|--------|
-| 01 | [kospedia](https://github.com/ajiarl/kospedia) | Platform pencarian & manajemen kos | PHP + MySQL | 🟢 Active |
-| 02 | [portofolio](https://github.com/ajiarl/portofolio) | Website portofolio pribadi | HTML CSS JS | 🟢 Active |
-| 03 | [reservasi-lapangan-futsal](https://github.com/ajiarl/reservasi-lapangan-futsal) | Sistem reservasi lapangan futsal online | PHP + MySQL | 🟡 WIP |
-| 04 | [toko-peralatan-sekolah](https://github.com/ajiarl/toko-peralatan-sekolah) | Manajemen toko peralatan sekolah | PHP + MySQL | ✅ Done |
-| 05 | [web-joki-tugas](https://github.com/ajiarl/web-joki-tugas) | Website jasa joki tugas | JavaScript | 🔵 Done |
-| 06 | [piano](https://github.com/ajiarl/piano) | Virtual piano interaktif di browser | HTML | 🔵 Done |
 
 ---
 
@@ -84,14 +71,12 @@ Halo! Saya **Aji Arlando**, seorang **Web Developer** dari Indonesia yang passio
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ajiarl&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=22d3ee&text_color=9ca3af&icon_color=34d399" width="49%" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ajiarl&theme=radical&hide_border=true&background=0d1117&stroke=22d3ee&ring=34d399&fire=f97316&currStreakNum=ffffff&sideNums=9ca3af&currStreakLabel=22d3ee&sideLabels=34d399&dates=9ca3af" width="49%" />
+<img src="https://github-stats-alpha.vercel.app/api?username=ajiarl&cc=0d1117&tc=22d3ee&ic=34d399&bc=0d1117" width="49%" />
+<img src="https://streak-stats.demolab.com/?user=ajiarl&theme=radical&hide_border=true&background=0d1117&stroke=22d3ee&ring=34d399&fire=f97316&currStreakNum=ffffff&sideNums=9ca3af&currStreakLabel=22d3ee&sideLabels=34d399&dates=9ca3af" width="49%" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajiarl&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=22d3ee&text_color=9ca3af&langs_count=6" width="49%" />
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajiarl&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=22d3ee&text_color=9ca3af&langs_count=8" width="49%" />
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ajiarl&bg_color=0d1117&color=9ca3af&line=22d3ee&point=34d399&area=true&hide_border=true" width="49%" />
 
 </div>
@@ -107,41 +92,6 @@ Halo! Saya **Aji Arlando**, seorang **Web Developer** dari Indonesia yang passio
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ajiarl/ajiarl/output/github-contribution-grid-snake-dark.svg">
   </picture>
 </div>
-
-> 💡 **Catatan:** Animasi snake memerlukan GitHub Actions workflow. Lihat setup-nya di bawah jika belum aktif.
-
-<details>
-<summary>⚙️ Setup Snake Animation (klik untuk buka)</summary>
-
-Buat file `.github/workflows/snake.yml` di repo `ajiarl/ajiarl`:
-
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: ajiarl
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-</details>
 
 ---
 
