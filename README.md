@@ -54,15 +54,15 @@ Halo! Saya **Aji Arlando**, seorang **Fullstack Web Developer** dari Indonesia y
 
 **Frontend**
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,vite" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,vite" />
 
 **Backend & Database**
 
-<img src="https://skillicons.dev/icons?i=php,nodejs,mysql,supabase,firebase" />
+<img src="https://skillicons.dev/icons?i=php,nodejs,mysql,supabase" />
 
 **Tools & Platform**
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,vercel,linux" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel" />
 
 </div>
 
@@ -72,16 +72,16 @@ Halo! Saya **Aji Arlando**, seorang **Fullstack Web Developer** dari Indonesia y
 
 <div align="center">
 
-<!-- Stats Card — github-readme-stats (stabil) -->
-<img src="https://github-readme-stats.vercel.app/api?username=ajiarl&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=22d3ee&text_color=9ca3af&icon_color=34d399" width="49%" />
+<!-- Stats — pakai cache buster biar tidak kena rate limit -->
+<img src="https://github-readme-stats.vercel.app/api?username=ajiarl&show_icons=true&count_private=true&include_all_commits=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=22d3ee&text_color=9ca3af&icon_color=34d399&rank_icon=github" width="49%" />
 
-<!-- Streak Stats — herokuapp (demolab sudah mati) -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ajiarl&theme=radical&hide_border=true&background=0d1117&stroke=22d3ee&ring=34d399&fire=f97316&currStreakNum=ffffff&sideNums=9ca3af&currStreakLabel=22d3ee&sideLabels=34d399&dates=9ca3af" width="49%" />
+<!-- Streak — pakai domain baru yang stabil -->
+<img src="https://streak-stats.demolab.com?user=ajiarl&theme=radical&hide_border=true&background=0d1117&stroke=22d3ee&ring=34d399&fire=f97316&currStreakNum=ffffff&sideNums=9ca3af&currStreakLabel=22d3ee&sideLabels=34d399&dates=9ca3af&exclude_days=Sun%2CSat" width="49%" />
 
 <br/>
 
 <!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajiarl&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=22d3ee&text_color=9ca3af&langs_count=8" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajiarl&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=22d3ee&text_color=9ca3af&langs_count=6" width="49%" />
 
 <!-- Activity Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ajiarl&bg_color=0d1117&color=9ca3af&line=22d3ee&point=34d399&area=true&hide_border=true" width="49%" />
