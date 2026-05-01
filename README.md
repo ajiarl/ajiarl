@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- Hero Section with Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=32&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Aji+Arlando+%F0%9F%91%8B;Fullstack+Web+Developer;Building+Scalable+Applications;Transforming+Ideas+Into+Code" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=32&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=800&lines=Halo%2C+Saya+Aji+Arlando+%F0%9F%91%8B;Fullstack+Web+Developer;Membangun+Website+Modern+%26+Responsif;Mengubah+Ide+Menjadi+Kode+Nyata" alt="Typing SVG" />
 
 <p align="center">
   <a href="https://portofolio-ajiarlando.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-030014?style=for-the-badge&logo=vercel&logoColor=white&borderColor=22D3EE" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portofolio-030014?style=for-the-badge&logo=vercel&logoColor=white&borderColor=22D3EE" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/ajiarlando/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -18,27 +18,22 @@
   </a>
 </p>
 
-<!-- Trophies (No Background for clean dark look) -->
-<a href="https://github.com/ryo-ma/github-profile-trophies">
-  <img src="https://github-profile-trophy.vercel.app/?username=ajiarl&theme=dracula&no-bg=true&margin-w=15&no-frame=true" alt="ajiarl trophies" />
-</a>
-
 </div>
 
 <br/>
 
-### 👨‍💻 About Me
+### 👨‍💻 Tentang Saya
 
-Hi! I'm a passionate **Fullstack Web Developer** based in Indonesia. I love crafting clean, efficient, and visually stunning digital experiences. Currently, I am expanding my expertise in modern web architectures and performance optimization.
+Halo! Saya adalah seorang **Fullstack Web Developer** dari Indonesia. Saya sangat suka merancang dan membangun pengalaman digital yang bersih, efisien, dan memanjakan mata. Saat ini saya sedang terus mengembangkan keahlian saya di bidang arsitektur web modern dan optimasi performa.
 
-- 🔭 I’m currently working on **Fullstack Web Development projects**
-- 🌱 I’m constantly exploring **Advanced React Patterns & Next.js Architectures**
-- 💬 Ask me about **React, TailwindCSS, PHP, MySQL, and Supabase**
-- ⚡ Fun fact: **I love combining clean architecture with stunning Glassmorphism & 3D UI!**
+- 🔭 Saat ini sedang mengerjakan **Proyek Fullstack Web Development**
+- 🌱 Sedang mempelajari **Advanced React Patterns & Arsitektur Backend**
+- 💬 Tanya saya tentang **React, TailwindCSS, PHP, MySQL, dan Supabase**
+- ⚡ Fakta unik: **Saya suka menggabungkan kode yang bersih dengan UI/UX 3D & Glassmorphism!**
 
 <br/>
 
-### 🛠️ My Arsenal
+### 🛠️ Tech Stack & Tools
 
 <div align="center">
   <a href="https://skillicons.dev">
@@ -48,31 +43,22 @@ Hi! I'm a passionate **Fullstack Web Developer** based in Indonesia. I love craf
 
 <br/>
 
-### 🚀 Pinned Repositories
+### 🚀 Proyek Pilihan
 
-<p align="center">
-  <a href="https://github.com/ajiarl/portofolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ajiarl&repo=portofolio&bg_color=030014&title_color=34d399&text_color=9ca3af&icon_color=22d3ee&border_color=1e293b&hide_border=true" width="48%" />
-  </a>
-  <a href="https://github.com/ajiarl/kospedia">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ajiarl&repo=kospedia&bg_color=030014&title_color=34d399&text_color=9ca3af&icon_color=22d3ee&border_color=1e293b&hide_border=true" width="48%" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/ajiarl/reservasi-lapangan-futsal">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ajiarl&repo=reservasi-lapangan-futsal&bg_color=030014&title_color=34d399&text_color=9ca3af&icon_color=22d3ee&border_color=1e293b&hide_border=true" width="48%" />
-  </a>
-  <a href="https://github.com/ajiarl/web-joki-tugas">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ajiarl&repo=web-joki-tugas&bg_color=030014&title_color=34d399&text_color=9ca3af&icon_color=22d3ee&border_color=1e293b&hide_border=true" width="48%" />
-  </a>
-</p>
+| 🚀 Proyek | 📝 Deskripsi | 💻 Tech Stack | 🔗 Tautan |
+|:---:|:---|:---:|:---:|
+| **[Portofolio V6](https://github.com/ajiarl/portofolio)** | Website portofolio pribadi dengan 3D Globe, animasi modern, & Glassmorphism UI | `React`, `Tailwind`, `Supabase` | [🌐 Live Demo](https://portofolio-ajiarlando.vercel.app/) |
+| **[Sistem Reservasi Futsal](https://github.com/ajiarl/reservasi-lapangan-futsal)** | Platform reservasi & manajemen lapangan futsal online | `PHP`, `MySQL`, `Bootstrap` | [📂 Repo](https://github.com/ajiarl/reservasi-lapangan-futsal) |
+| **[Kospedia](https://github.com/ajiarl/kospedia)** | Platform pencarian & manajemen kos untuk mahasiswa | `PHP`, `MySQL` | [📂 Repo](https://github.com/ajiarl/kospedia) |
+| **[Web Joki Tugas](https://github.com/ajiarl/web-joki-tugas)** | Website pemesanan jasa tugas & freelance | `JavaScript` | [📂 Repo](https://github.com/ajiarl/web-joki-tugas) |
+| **[Toko Peralatan Sekolah](https://github.com/ajiarl/toko-peralatan-sekolah)** | Sistem manajemen inventaris & kasir toko | `PHP`, `MySQL` | [📂 Repo](https://github.com/ajiarl/toko-peralatan-sekolah) |
 
 <br/>
 
-### 📊 GitHub Metrics
+### 📊 Statistik GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ajiarl&show_icons=true&bg_color=030014&title_color=34d399&text_color=9ca3af&icon_color=22d3ee&border_color=1e293b&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ajiarl&show_icons=true&bg_color=030014&title_color=34d399&text_color=9ca3af&icon_color=22d3ee&border_color=1e293b&hide_border=true" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ajiarl&background=030014&stroke=1e293b&ring=34d399&fire=22d3ee&currStreakNum=9ca3af&sideNums=9ca3af&currStreakLabel=34d399&sideLabels=34d399&dates=9ca3af&hide_border=true" width="48%" />
 </p>
 
@@ -83,10 +69,9 @@ Hi! I'm a passionate **Fullstack Web Developer** based in Indonesia. I love craf
 
 <br/>
 
-### 🐍 Contribution Grid
+### 🐍 Animasi Kontribusi (Snake)
 
 <div align="center">
-  <!-- Pastikan GitHub Actions untuk snake ini berjalan agar SVG-nya bisa dirender -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ajiarl/ajiarl/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ajiarl/ajiarl/output/github-contribution-grid-snake.svg">
@@ -97,7 +82,7 @@ Hi! I'm a passionate **Fullstack Web Developer** based in Indonesia. I love craf
 <br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ajiarl&style=for-the-badge&color=22D3EE&label=PROFILE+VIEWS" />
+  <img src="https://komarev.com/ghpvc/?username=ajiarl&style=for-the-badge&color=22D3EE&label=KUNJUNGAN+PROFIL" />
   <br/><br/>
-  <i>Crafted with ❤️ by Aji Arlando</i>
+  <i>Dibuat dengan ❤️ oleh Aji Arlando</i>
 </div>
