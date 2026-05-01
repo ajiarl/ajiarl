@@ -1,71 +1,68 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&duration=2000&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Aji+Arlando+%F0%9F%91%8B;Fullstack+Web+Developer;Building+Digital+Experiences;Always+Learning+%26+Coding" alt="Typing SVG" />
-  
-  <p align="center">
-    <a href="https://portofolio-ajiarlando.vercel.app/" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-030014?style=for-the-badge&logo=vercel&logoColor=white&borderColor=22D3EE" alt="Portfolio" />
-    </a>
-    <a href="https://www.linkedin.com/in/ajiarlando/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="https://www.instagram.com/ajiii.ar/" target="_blank">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-    </a>
-    <a href="mailto:ajiarlando127@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-  </p>
-</div>
 
----
+<!-- Typing Animation Greeting (Neo-Brutalist Style) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=900&size=30&color=FFE32B&center=true&vCenter=true&width=600&lines=HEY+THERE+👋;I'M+AJI+ARLANDO;FULLSTACK+WEB+DEVELOPER">
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=900&size=30&color=000000&center=true&vCenter=true&width=600&lines=HEY+THERE+👋;I'M+AJI+ARLANDO;FULLSTACK+WEB+DEVELOPER">
+  <img alt="Typing SVG" src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=900&size=30&color=FFE32B&center=true&vCenter=true&width=600&lines=HEY+THERE+👋;I'M+AJI+ARLANDO;FULLSTACK+WEB+DEVELOPER">
+</picture>
 
-### 👨‍💻 About Me
+<br/>
 
-- 🔭 I’m currently working on **Fullstack Web Development projects**
-- 🌱 I’m currently learning **Advanced React Patterns & Backend Architectures**
-- 💬 Ask me about **React, TailwindCSS, PHP, MySQL, and Supabase**
-- 📫 How to reach me: **[ajiarlando127@gmail.com](mailto:ajiarlando127@gmail.com)**
-- ⚡ Fun fact: **I love combining clean code with stunning UI/UX!**
-
----
-
-### 🛠️ Tech Stack & Tools
-
+<!-- Blocky Social Badges -->
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,vite,supabase,php,mysql,git,github,vscode,figma,postman&perline=7" />
-  </a>
+  <a href="https://portofolio-ajiarlando.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://linkedin.com/in/ajiarlando/"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://instagram.com/ajiii.ar/"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="mailto:ajiarlando127@gmail.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
----
+<br/>
 
-### 📌 Featured Projects
+### ⚡ TECH STACK
 
-| 🚀 Project | 📝 Description | 💻 Tech Stack | 🔗 Link |
-|:---:|:---|:---:|:---:|
-| **[Portofolio V6](https://github.com/ajiarl/portofolio)** | Website portofolio pribadi dengan 3D Globe, animasi modern, & Glassmorphism UI | `React`, `Tailwind`, `Supabase` | [🌐 Live Demo](https://portofolio-ajiarlando.vercel.app/) |
-| **[Sistem Reservasi Futsal](https://github.com/ajiarl/reservasi-lapangan-futsal)** | Platform reservasi & manajemen lapangan futsal online | `PHP`, `MySQL`, `Bootstrap` | [📂 Repo](https://github.com/ajiarl/reservasi-lapangan-futsal) |
-| **[Kospedia](https://github.com/ajiarl/kospedia)** | Platform pencarian & manajemen kos untuk mahasiswa | `PHP`, `MySQL` | [📂 Repo](https://github.com/ajiarl/kospedia) |
-| **[Toko Peralatan Sekolah](https://github.com/ajiarl/toko-peralatan-sekolah)** | Sistem manajemen inventaris & kasir toko | `PHP`, `MySQL` | [📂 Repo](https://github.com/ajiarl/toko-peralatan-sekolah) |
+<img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,react,tailwind,supabase,git,github,vscode,figma&perline=6&theme=light" />
 
----
+<br/><br/>
 
-### 📊 GitHub Analytics
+### 📊 STATS (NEO-BRUTALISM EDITION)
 
+<!-- Custom Neo-Brutalist Color Configurations -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ajiarl&show_icons=true&bg_color=030014&title_color=34d399&text_color=9ca3af&icon_color=22d3ee&border_color=1e293b&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ajiarl&background=030014&stroke=1e293b&ring=34d399&fire=22d3ee&currStreakNum=9ca3af&sideNums=9ca3af&currStreakLabel=34d399&sideLabels=34d399&dates=9ca3af&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ajiarl&show_icons=true&bg_color=FFE32B&title_color=000000&text_color=000000&icon_color=000000&border_color=000000&border_radius=0&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ajiarl&background=FF90E8&stroke=000000&ring=000000&fire=000000&currStreakNum=000000&sideNums=000000&currStreakLabel=000000&sideLabels=000000&dates=000000&border=000000&border_radius=0" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajiarl&layout=donut&bg_color=030014&title_color=34d399&text_color=9ca3af&icon_color=22d3ee&border_color=1e293b&hide_border=true&langs_count=6" width="48%" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ajiarl&bg_color=030014&color=9ca3af&line=22d3ee&point=34d399&area=true&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajiarl&layout=donut&bg_color=82E0AA&title_color=000000&text_color=000000&icon_color=000000&border_color=000000&border_radius=0&langs_count=6" width="48%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ajiarl&theme=flat&no-bg=true&border=1&margin-w=15" width="48%" />
 </p>
 
----
+<br/>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ajiarl&style=for-the-badge&color=22D3EE&label=PROFILE+VIEWS" />
-  <br/>
-  <i>Crafted with ❤️ by Aji Arlando</i>
+### 📌 PINNED PROJECTS
+
+| PROJECT | DESCRIPTION | TECH |
+|:---|:---|:---|
+| ⬛ **[Portofolio](https://portofolio-ajiarlando.vercel.app/)** | Website portofolio 3D & Modern Vibe | `React` `Tailwind` |
+| ⬛ **[Kospedia](https://github.com/ajiarl/kospedia)** | Platform pencarian & manajemen kos | `PHP` `MySQL` |
+| ⬛ **[Sistem Futsal](https://github.com/ajiarl/reservasi-lapangan-futsal)** | Reservasi lapangan futsal online | `PHP` `MySQL` |
+| ⬛ **[Web Joki Tugas](https://github.com/ajiarl/web-joki-tugas)** | Jasa tugas & freelance (Done) | `JavaScript` |
+| ⬛ **[Toko Sekolah](https://github.com/ajiarl/toko-peralatan-sekolah)** | Manajemen inventaris sekolah | `PHP` `MySQL` |
+
+<br/>
+
+### 🐍 CONTRIBUTION SNAKE
+
+<!-- Pastikan kamu mensetup Github Actions untuk men-generate file SVG snake ini! -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ajiarl/ajiarl/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ajiarl/ajiarl/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ajiarl/ajiarl/output/github-contribution-grid-snake.svg">
+</picture>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=ajiarl&style=for-the-badge&color=FFE32B&label=VIEWS&labelBgColor=000000&logo=github&logoColor=ffffff" />
+
 </div>
