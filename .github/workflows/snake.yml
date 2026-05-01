@@ -1,8 +1,6 @@
 name: Generate Snake Animation
-
 on:
   schedule:
-    # Jalan otomatis setiap 12 jam
     - cron: "0 */12 * * *"
   workflow_dispatch:
   push:
@@ -14,7 +12,9 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     timeout-minutes: 10
-    
+    permissions:
+      contents: write   # ← tambahkan ini
+
     steps:
       - name: Generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v3
