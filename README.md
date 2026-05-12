@@ -95,7 +95,7 @@ Halo! Saya **Aji Arlando**, seorang **Fullstack Web Developer** dari Indonesia y
 
 ---
 
-## Quote of the Day<>
+## Quote of the Daysss<>
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
