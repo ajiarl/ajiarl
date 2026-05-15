@@ -105,5 +105,5 @@ Halo! Saya **Aji Arlando**, seorang **Fullstack Web Developer** dari Indonesia y
 
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,50:0e7490,100:0f172a&height=120&section=footer" />
-  <i><b>Aji Arlando</b></i>
+  <i><b>Aji Arlando yee</b></i>
 </div>
